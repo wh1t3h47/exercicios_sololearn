@@ -11,3 +11,16 @@
 >|------------------|------|
 >| Your Output      | 53.6 |
 >| Expected Output  | 53.6 |
+
+
+## gold_purity_checker
+
+>| Input           | 94.5      |
+>|-----------------|-----------|
+>| Your Output     | Accepted  |
+>| Expected Output | Accepted  |
+
+>| Input           | 55        |
+>|-----------------|-----------|
+>| Your Output     | No Output |
+>| Expected Output | No Output |

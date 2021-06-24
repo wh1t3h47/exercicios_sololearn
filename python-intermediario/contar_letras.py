@@ -7,7 +7,7 @@ def contar_letras(palavra):
     
     for letter in split_text:
         if (not letter in letter_count_dict):
-            letter_count_dict[letter] = 1;
+            letter_count_dict[letter] = 1
         else:
             letter_count_dict[letter] += 1
     
